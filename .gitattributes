@@ -1,0 +1,2 @@
+projects/ft_observer/* filter=lfs diff=lfs merge=lfs -text
+projects/videos/* filter=lfs diff=lfs merge=lfs -text
